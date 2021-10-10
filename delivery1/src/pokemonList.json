@@ -1,0 +1,150 @@
+[
+    {
+      "name": "Arcanine",
+      "id": 1,
+      "typeAbility": "Fire"
+    },
+    {
+      "name": "Beedrill",
+      "id": 2,
+      "typeAbility": "Bug, Poison"
+    },
+    {
+      "name": "Blastoise",
+      "id": 3,
+      "typeAbility": "Water"
+    },
+    {
+      "name": "Bulbasaur",
+      "id": 4,
+      "typeAbility": "Grass, Poison"
+    },
+    {
+      "name": "Butterfree",
+      "id": 5,
+      "typeAbility": "Bug, Flying"
+    },
+    {
+      "name": "Caterpie",
+      "id": 6,
+      "typeAbility": "Bug"
+    },
+    {
+      "name": "Charizard",
+      "id": 7,
+      "typeAbility": "Fire"
+    },
+    {
+      "name": "Charmander",
+      "id": 8,
+      "typeAbility": "Fire"
+    },
+    {
+      "name": "Charmeleon",
+      "id": 9,
+      "typeAbility": "Fire"
+    },
+    {
+      "name": "Clefable",
+      "id": 10,
+      "typeAbility": "Fairy"
+    },
+    {
+      "name": "Dewgong",
+      "id": 11,
+      "typeAbility": "Water"
+    },
+    {
+      "name": "Farfetchd",
+      "id": 12,
+      "typeAbility": "Normal, Flying"
+    },
+    {
+      "name": "Golbat",
+      "id": 13,
+      "typeAbility": "Poison"
+    },
+    {
+      "name": "Ivysaur",
+      "id": 14,
+      "typeAbility": "Grass"
+    },
+    {
+      "name": "Kadabra",
+      "id": 15,
+      "typeAbility": "Psychic"
+    },
+    {
+      "name": "Kakuna",
+      "id": 16,
+      "typeAbility": "Bug, Poison"
+    },
+    {
+      "name": "Metapod",
+      "id": 17,
+      "typeAbility": "Bug"
+    },
+    {
+      "name": "Pidgeot",
+      "id": 18,
+      "typeAbility": "Normal, Flying"
+    },
+    {
+      "name": "Pidgeotto",
+      "id": 19,
+      "typeAbility": "Normal, Flying"
+    },
+    {
+      "name": "Pidgey",
+      "id": 20,
+      "typeAbility": "Normal, Flying"
+    },
+    {
+      "name": "Pikachu",
+      "id": 21,
+      "typeAbility": "Electric"
+    },
+    {
+      "name": "Ponyta",
+      "id": 22,
+      "typeAbility": "Fire"
+    },
+    {
+      "name": "Raichu",
+      "id": 23,
+      "typeAbility": "Eletric"
+    },
+    {
+      "name": "Raticate",
+      "id": 24,
+      "typeAbility": "Normal"
+    },{
+      "name": "Rattata",
+      "id": 25,
+      "typeAbility": "Eletric"
+    },
+    {
+      "name": "Squirtle",
+      "id": 26,
+      "typeAbility": "Water"
+    },
+    {
+      "name": "Venusaur",
+      "id": 27,
+      "typeAbility": "Grass, Poison"
+    },{
+      "name": "Vulpix",
+      "id": 28,
+      "typeAbility": "Fire"
+    },
+    {
+      "name": "Wartortle",
+      "id": 29,
+      "typeAbility": "Water"
+    },
+    {
+      "name": "Weedle",
+      "id": 30,
+      "typeAbility": "Bug, Poison"
+    }
+]
